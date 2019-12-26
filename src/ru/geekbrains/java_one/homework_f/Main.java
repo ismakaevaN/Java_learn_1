@@ -14,6 +14,7 @@ public class Main {
 		findWordInFile("D:/joke.txt", "Kilkenny");
 		Main main = new Main();
 		main.findWordInFolder("D:/testf", "JScript");
+
 	}
 
 	private static void concatfiles() {
